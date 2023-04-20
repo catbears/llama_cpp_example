@@ -1,1 +1,3 @@
 /models/gpt4all_ggml/gpt4all-lora-quantized-ggml.bin
+/models/ggml-vicuna-13b-1.1-q4_2.bin
+/models/ggml-vicuna-13b-4bit-rev1.bin
